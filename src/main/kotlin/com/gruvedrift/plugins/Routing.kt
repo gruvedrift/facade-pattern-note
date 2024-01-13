@@ -1,6 +1,5 @@
 package com.gruvedrift.plugins
 
-import com.gruvedrift.example.ExpandMiningFacade
 import com.gruvedrift.example.init
 import io.ktor.server.application.*
 import io.ktor.server.response.*

@@ -1,6 +1,5 @@
 package com.gruvedrift
 
-import com.gruvedrift.example.init
 import com.gruvedrift.plugins.*
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
